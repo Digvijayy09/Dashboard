@@ -1,3 +1,4 @@
+![logo](https://github.com/Digvijayy09/Digvijayy09/blob/main/image-asset.gif)
 <h1 align="center">Hi 👋, I'm Digvijayy Jadhav</h1>
 <h3 align="center">A passionate Software developer.</h3>
 
