@@ -1,4 +1,7 @@
-![logo](https://github.com/Digvijayy09/Digvijayy09/blob/main/image-asset.gif)
+<div align="center">
+  <img src="https://github.com/Digvijayy09/Digvijayy09/blob/main/image-asset.gif" alt="logo">
+</div>
+
 <h1 align="center">Hi 👋, I'm Digvijayy Jadhav</h1>
 <h3 align="center">A passionate Software developer.</h3>
 
