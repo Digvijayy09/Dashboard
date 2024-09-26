@@ -1,15 +1,5 @@
-<div align="center">
-  <img src="https://github.com/Digvijayy09/Digvijayy09/blob/main/image-asset.gif" alt="logo">
-</div>
-
-
 <h1 align="center">Hi 👋, I'm Digvijayy Jadhav</h1>
 <h3 align="center">A passionate Software developer.</h3>
-
-<div align="center">
-  <img alt="coding" width="800" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=1500w">
-</div>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digvijayy09&label=Profile%20views&color=0e75b6&style=flat" alt="digvijayy09" /> </p>
 
